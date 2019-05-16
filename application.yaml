@@ -1,0 +1,16 @@
+login:
+  needLogin: true
+  via: xpath
+  bank: bankID
+  user: username
+  password: password
+  bank_element: bank_element
+  user_element: user_element
+  password_element: password_element
+  button: buttom_element
+webDriver:
+  url: http://www.baidu.com
+result:
+  primaryKey: key3
+keylist:
+  keys:
